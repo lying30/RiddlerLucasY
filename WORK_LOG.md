@@ -1,9 +1,10 @@
 Name: YOUR NAME HERE
 
-| Date   |    Time    |                                                                    Update |
-|:-------|:----------:|--------------------------------------------------------------------------:|
-| Aug 22 |  8-8:30pm  | I started by thinking about my place in the universe.<br/>It was scary... |
-|        |            |                                                             And then I... |
+| Date      |    Time     |                                                                                                                                                                                                                                                                                                                                                                                                                                                           Update |
+|:----------|:-----------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Aug 27    | 8:00-9:00pm |                                                                                                                                                                                                                                                                                                                          I started with solving #1 and #2. Figured out that they were caeser and ascii and coded them but don't know how to test if it is right. |
+| Aug 28    |  9:00-9:15  |                                                                                                                                                                                                                                                  I realized my shift was actually wrong for my caeser cypher and adapted it to work.                                                                                                               And then I... |
+| Aug 28-29 |   11:30-1   | Realized I literally just left shift as I go through the 8 digit binary numbers and then convert them to ascii after, so I figured out how to do #3.<br/> For #4 I looked at your lecture notes which were really helpful and realized that I just needed to determine a shift between the Hex value for A and the ascii value for A which would allow me to determine how to shift every value. <br/> Also did some documentation at the end before submitting. |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
